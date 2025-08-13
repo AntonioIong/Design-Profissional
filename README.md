@@ -1,15 +1,5 @@
 # Code Starter Kit
 
-> Um kit de ferramentas simples para quem está começando a programar, com exemplos práticos em Python.
-
-## Sumário
-- [Sobre](#sobre)
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-
 ---
 
 ## Sobre
