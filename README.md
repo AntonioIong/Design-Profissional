@@ -1,22 +1,36 @@
-# Code Starter Kit
+# Starter Code Buddy
+
+> Um mini‑framework interativo para iniciantes aprenderem lógica de programação, com exemplos em JavaScript.
+
+---
+
+## Conteúdo
+- [Sobre](#sobre)
+- [Tecnologias](#tecnologias)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Recursos Extras](#recursos-extras)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
 
 ---
 
 ## Sobre
-O **Code Starter Kit** é um pequeno projeto para ajudar iniciantes a configurar seu ambiente em Python, entender estruturas básicas como funções, leitura de arquivos e loops. Ideal para praticar passo a passo.
+O **Starter Code Buddy** foi criado para ajudar novos programadores a entenderem lógica básica: variáveis, condicionais, loops e funções. Ele apresenta exemplos interativos que podem ser executados no navegador — ideal para quem está começando de forma prática.
 
 ---
 
 ## Tecnologias
-- **Linguagem**: Python 3.10  
-- **Dependências**: pip, requests (para exemplos de web)  
-- **Controle de versão**: Git  
+- **JavaScript (ES6+)**
+- Biblioteca: nenhuma (usa JavaScript puro)
+- Executar diretamente no navegador moderno
+- **Gerenciamento de versão**: Git + GitHub
 
 ---
 
 ## Instalação
-1. Clone o repositório:
+1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/code-starter-kit.git
-   cd code-starter-kit
+   git clone https://github.com/seuusuario/starter-code-buddy.git
+   cd starter-code-buddy
 
