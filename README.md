@@ -1,36 +1,25 @@
-# Starter Code Buddy
+# 💻 Code Starter Kit
 
-> Um mini‑framework interativo para iniciantes aprenderem lógica de programação, com exemplos em JavaScript.
-
----
-
-## Conteúdo
-- [Sobre](#sobre)
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Recursos Extras](#recursos-extras)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+Um mini‑framework interativo para iniciantes aprenderem lógica de programação, com exemplos em JavaScript.
 
 ---
 
-## Sobre
-O **Starter Code Buddy** foi criado para ajudar novos programadores a entenderem lógica básica: variáveis, condicionais, loops e funções. Ele apresenta exemplos interativos que podem ser executados no navegador — ideal para quem está começando de forma prática.
+## 📃 Sobre
+O **Code Starter Kit** foi criado para ajudar novos programadores a entenderem lógica básica: variáveis, condicionais, loops e funções. Ele apresenta exemplos interativos que podem ser executados no navegador — ideal para quem está começando de forma prática.
 
 ---
 
-## Tecnologias
-- **JavaScript (ES6+)**
-- Biblioteca: nenhuma (usa JavaScript puro)
-- Executar diretamente no navegador moderno
-- **Gerenciamento de versão**: Git + GitHub
+## 🔨 Tecnologias
+- **Front-end**: React  
+- **Back-end**: Node.js + Express  
+- **Banco de dados**: MongoDB  
+- **Gerenciamento de versão**: Git e GitHub
 
 ---
 
-## Instalação
+## 💿 Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/starter-code-buddy.git
-   cd starter-code-buddy
+   git clone https://github.com/Antonio Iong/code-starter-kit.git
+   cd code-starter-kit
 
