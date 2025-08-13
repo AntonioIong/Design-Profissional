@@ -1,28 +1,32 @@
-# TaskMaster Pro
+# Code Starter Kit
 
-> Um app de gerenciamento de tarefas colaborativo e intuitivo.
+> Um kit de ferramentas simples para quem está começando a programar, com exemplos práticos em Python.
 
-##  Descrição
-TaskMaster Pro nasceu como um projeto acadêmico para aprender React e Node.js. Ele permite que equipes organizem tarefas, definam prazos, marquem status e colaborem de forma simples e eficiente.
+## Sumário
+- [Sobre](#sobre)
+- [Tecnologias](#tecnologias)
+- [Instalação](#instalação)
+- [Como Usar](#como-usar)
+- [Contribuindo](#contribuindo)
+- [Licença](#licença)
 
-##  Tecnologias Utilizadas
-- **Front-end**: React  
-- **Back-end**: Node.js + Express  
-- **Banco de dados**: MongoDB  
-- **Gerenciamento de versão**: Git e GitHub
+---
 
-##  Instalação
-1. Clone o repositório:  
-   `git clone https://github.com/seuusuario/taskmaster-pro.git`  
-2. Acesse a pasta do servidor:  
-   `cd server && npm install && npm start`  
-3. Acesse o front-end:  
-   `cd ../client && npm install && npm start`  
-4. O app estará disponível em `http://localhost:3000`
+## Sobre
+O **Code Starter Kit** é um pequeno projeto para ajudar iniciantes a configurar seu ambiente em Python, entender estruturas básicas como funções, leitura de arquivos e loops. Ideal para praticar passo a passo.
 
-##  Exemplo de Uso
-- Criar uma tarefa:
-```bash
-curl -X POST http://localhost:3000/tasks \
-  -H 'Content-Type: application/json' \
-  -d '{"title":"Fazer README","dueDate":"2025-09-01"}'
+---
+
+## Tecnologias
+- **Linguagem**: Python 3.10  
+- **Dependências**: pip, requests (para exemplos de web)  
+- **Controle de versão**: Git  
+
+---
+
+## Instalação
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/code-starter-kit.git
+   cd code-starter-kit
+
